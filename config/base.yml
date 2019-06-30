@@ -126,7 +126,6 @@ Layout/EndAlignment:
   Enabled: true
   AutoCorrect: true
   EnforcedStyleAlignWith: variable
-  AutoCorrect: false
   Severity: warning
 
 Layout/EndOfLine:
