@@ -554,7 +554,6 @@ Naming/MethodName:
 
 Naming/UncommunicativeBlockParamName:
   Enabled: true
-  Enabled: true
   MinNameLength: 1
   AllowNamesEndingInNumbers: true
   AllowedNames: []
